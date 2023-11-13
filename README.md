@@ -44,7 +44,7 @@ Terraform follows a simple three-step process:
 ## Understanding the Architecture
 A three-tier architecture divides an application into three interconnected layers: the presentation tier, application tier, and data tier. In our case, this architecture consists of a custom Virtual Private Cloud (VPC), Internet Gateway, subnets, EC2 instances, route tables, NAT Gateway, and an RDS database.
 
-![Terraform Flow Diagram](./arch.png)
+![Terraform Flow Diagram](arch.png)
 
 ## Environment Setup Prerequisites
 To get started, you'll need the following:
