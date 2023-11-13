@@ -83,3 +83,7 @@ If you encounter issues:
 3. Verify route table settings for the public subnet.
 4. Ensure instances have public IPs or Elastic IPs.
 5. Double-check route table associations and instance statuses.
+
+Blog:-
+[![Icon]([path/to/your/icon/image.png](https://blog.algoanalytics.com/wp-content/uploads/2021/12/new-logo.d40cd7bd.png))](https://blog.algoanalytics.com/2023/11/13/modernizing-application-deployment-and-scaling-with-terraform/)
+
