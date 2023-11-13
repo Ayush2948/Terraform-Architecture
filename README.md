@@ -85,5 +85,4 @@ If you encounter issues:
 4. Ensure instances have public IPs or Elastic IPs.
 5. Double-check route table associations and instance statuses.
 
-[![blog-1-Traced.png](https://i.postimg.cc/V6pVDtkH/blog-1-Traced.png)](https://blog.algoanalytics.com/2023/11/13/modernizing-application-deployment-and-scaling-with-terraform/) [![linkedin.png](https://i.postimg.cc/MGNGbs1k/linkedin.png)](https://postimg.cc/5H51fSPp)
-
+[![blog-1-Traced.png](https://i.postimg.cc/V6pVDtkH/blog-1-Traced.png)](https://blog.algoanalytics.com/2023/11/13/modernizing-application-deployment-and-scaling-with-terraform/) [![linkedin-1.png](https://i.postimg.cc/L47VgRJv/linkedin-1.png)](https://postimg.cc/4n6cjDbh)
