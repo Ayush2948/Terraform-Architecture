@@ -86,6 +86,5 @@ If you encounter issues:
 5. Double-check route table associations and instance statuses.
 
 Blog:-
-[![blog-1-Traced.png](https://i.postimg.cc/V6pVDtkH/blog-1-Traced.png)](https://postimg.cc/0MGnNbmp)
-https://blog.algoanalytics.com/2023/11/13/modernizing-application-deployment-and-scaling-with-terraform/
+[![blog-1-Traced.png](https://i.postimg.cc/V6pVDtkH/blog-1-Traced.png)](https://blog.algoanalytics.com/2023/11/13/modernizing-application-deployment-and-scaling-with-terraform/)
 
