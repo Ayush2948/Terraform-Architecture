@@ -28,7 +28,7 @@ Terraform follows a simple three-step process:
 2. **Plan**: Terraform generates an execution plan that shows what will change in your infrastructure.
 3. **Apply**: Execute the plan to create, update, or delete resources accordingly.
 
-![image description](https://miro.medium.com/v2/resize:fit:1400/1*v1Yh39IMwu0Vjfmd23i1lg.png)
+![image description](https://yourimageshare.com/ib/MC5iLlCSD0)
 
 
 ## Basic Terraform Commands
