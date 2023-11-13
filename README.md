@@ -28,7 +28,8 @@ Terraform follows a simple three-step process:
 2. **Plan**: Terraform generates an execution plan that shows what will change in your infrastructure.
 3. **Apply**: Execute the plan to create, update, or delete resources accordingly.
 
-![Terraform Flow Diagram](https://developer.hashicorp.com/_next/image?url=https%3A%2F%2Fcontent.hashicorp.com%2Fapi%2Fassets%3Fproduct%3Dterraform%26version%3Drefs%252Fheads%252Fv1.6%26asset%3Dwebsite%252Fimg%252Fdocs%252Fintro-terraform-workflow.png%26width%3D2038%26height%3D1773&w=3840&q=75)
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.hashicorp.com%2Fterraform%2Fintro&psig=AOvVaw3X1qFjG6kREeRQ8ljv-oOL&ust=1699984645454000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiDrLnGwYIDFQAAAAAdAAAAABAE" alt="Icon Description" width="100" height="100">
+
 
 ## Basic Terraform Commands
 - `terraform init`: Initializes your Terraform environment.
